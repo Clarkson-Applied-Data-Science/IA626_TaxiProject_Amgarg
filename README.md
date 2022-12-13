@@ -2187,15 +2187,9 @@ print("Average $USD/Mile(Km) : {:0.2f}".format(df.fare_amount.sum()/df.trip_dist
 
     Average $USD/Mile(Km) : 3.62
     
-
-
 ```python
 df.head()
 ```
-
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
