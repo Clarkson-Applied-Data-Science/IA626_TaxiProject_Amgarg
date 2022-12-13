@@ -2362,3 +2362,12 @@ df.head()
 </table>
 <p>5 rows × 43 columns</p>
 </div>
+
+## Conclusion About trip data and trip fare dataset :
+- Evening Time is most Busiest time followed by Night 
+- Afternoon is less busiest time 
+- Most trips are taken on Friday , Saturday and Thursday
+- The average duration of a trip is most on Thursday and Friday as trips longer than 5 hours are mostly taken in these days
+- The long duration trips(> 5 hours) are mostly concentrated with their pickup region near (40 °,75 °) to (42°,75°)
+- Average $USD/Mile(Km) : 3.62
+- Some taxi trips are small and some are long 
